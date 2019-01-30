@@ -1,6 +1,6 @@
 {
   "name": "@titanium/template-alloy-default",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Titanium Native Template - Alloy Default -- This is basically the template you get when you create a new app using Titanium Alloy",
   "main": "index.js",
   "scripts": {
