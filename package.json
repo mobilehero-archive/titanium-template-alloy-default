@@ -1,0 +1,23 @@
+{
+  "name": "@titanium/template-alloy-default",
+  "version": "1.0.0",
+  "description": "Titanium Native Template - Alloy Default -- This is basically the template you get when you create a new app using Titanium Alloy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brentonhouse/titanium-template-alloy-default.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brentonhouse/titanium-template-alloy-default/issues",
+    "email": "brenton.house@gmail.com"
+  },
+  "author": {
+    "name": "Brenton House",
+    "email": "brenton.house@gmail.com",
+    "url": "https://github.com/brentonhouse"
+  },
+  "license": "MIT"
+}
