@@ -84,8 +84,7 @@
 		</plist>
 	</ios>
 	<android xmlns:android="http://schemas.android.com/apk/res/android">
-		<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-		          android:versionCode="1">
+		<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1">
 		</manifest>
 	</android>
 	<modules>
