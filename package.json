@@ -1,6 +1,6 @@
 {
   "name": "@titanium/template-alloy-default",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Titanium Native Template - Alloy Default -- Basic Titanium Alloy template plus some enhancements",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-	"eslint": "^5.15.1",
-    "@titanium/eslint-config": "0.0.3"
+    "@titanium/eslint-config": "0.0.3",
+    "eslint": "^5.16.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
