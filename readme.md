@@ -25,7 +25,7 @@ mobile app:create my-new-app
 
 ## Current Features
 
-* Titanium SDK 7.5.1.GA
+* Titanium SDK 8.0.1.GA
 * Updated .gitignore file
 * Modifications to `tiapp.xml`:
   * Added the following iOS permissions:
