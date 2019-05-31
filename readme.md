@@ -31,7 +31,7 @@ mobile app:create my-new-app
   * Added the following iOS permissions:
     * Camera
     * Photo Library
-    * Micriophone
+    * Microphone
     * Apple Music
     * Wifi
   * Added iOS query schemes
