@@ -1,6 +1,6 @@
 {
   "name": "@titanium/template-alloy-default",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Titanium Native Template - Alloy Default -- Basic Titanium Alloy template plus some enhancements",
   "main": "index.js",
   "scripts": {
