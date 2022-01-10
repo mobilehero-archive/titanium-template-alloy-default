@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/template-alloy-default",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "⭐ Axway Amplify template for using basic Alloy with Appcelerator Titanium SDK",
 	"main": "index.js",
 	"homepage": "https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de",
@@ -40,9 +40,9 @@
 		"@geek/spinner": "^1.0.0",
 		"@geek/tld": "^2.0.1-1",
 		"@titanium/appcelerator": "^6.0.6",
-		"@titanium/bluebird": "^3.7.10",
+		"@titanium/bluebird": "^3.7.12",
 		"@titanium/errors": "^1.0.9",
-		"@titanium/essentials": "^1.0.39",
+		"@titanium/essentials": "^1.0.40",
 		"@titanium/events": "^1.0.21",
 		"@titanium/eventsource": "^1.0.6",
 		"@titanium/jwt": "^1.0.12",
@@ -51,7 +51,7 @@
 		"@titanium/polyfill": "^1.0.19",
 		"@titanium/querystring": "^1.0.5",
 		"@titanium/tiapp-xml": "^1.0.17",
-		"@titanium/titanium": "^5.4.9",
+		"@titanium/titanium": "^5.4.10",
 		"@titanium/turbo": "^2.2.26"
 	}
 }
