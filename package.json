@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/template-alloy-default",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "⭐ Axway Amplify template for using basic Alloy with Appcelerator Titanium SDK",
 	"main": "index.js",
 	"homepage": "https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de",
@@ -53,5 +53,24 @@
 		"@titanium/tiapp-xml": "^1.0.17",
 		"@titanium/titanium": "^5.4.10",
 		"@titanium/turbo": "^2.2.26"
-	}
+	},
+	"keywords": [
+		"axway",
+		"appcelerator",
+		"titanium",
+		"mobile",
+		"turbo",
+		"sdk",
+		"plugin",
+		"amplify",
+		"api-builder",
+		"appcelerator-titanium",
+		"titanium-sdk",
+		"titanium-mobile",
+		"titanium-module",
+		"titanium-alloy",
+		"axway-sdk",
+		"axway-amplify",
+		"brenton-house"
+	]
 }
